@@ -1,7 +1,8 @@
 # CSharp-2
 
-Telerik Academy Trainee
 
+Telerik Academy Trainee
+============================================================================================================
 
 
 As a trainee in Telerik Academy Online my next projects, homeworks and exercises include work with:
@@ -16,6 +17,7 @@ As a trainee in Telerik Academy Online my next projects, homeworks and exercises
 and
 8. Text Files
 
-All codes and examples are done for the course C# - Part – 2 and are written on C#.
+All codes and examples are done for the course C# - Part - 2 and are written on C#.
 
 
+==============================================================================================================
